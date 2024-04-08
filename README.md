@@ -1,6 +1,6 @@
 ## Integrantes
 
-Luis Alfredo Durante Moreno
+Luis Alfredo Durante Moreno -
 Jhan Carlos Ortiz
 
 Desarrollo web - 2024
